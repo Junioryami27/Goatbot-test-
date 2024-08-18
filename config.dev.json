@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
     "email": "fiantot27@gmail.com",
-    "password": "Fiantorousseautitus00",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100089877583784",
+    "61556172651835",
     ""
   ],
   "whiteListMode": {
